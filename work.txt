@@ -1,0 +1,8 @@
+=======================
+mkdir manual-merge
+cd manual-merge
+git init
+nano work.txt
+git add work.txt
+git commit -m "work 1"
+========================
